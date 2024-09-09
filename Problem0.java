@@ -2,6 +2,7 @@ public class Problem0
 {
   public static void main(String[] args)
   {
-    // insert code here
+    int x = ((15 % 3) / 3) * (7 - 4) + 5;
+    System.out.println(x);
   }
 }
